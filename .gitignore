@@ -1,0 +1,25 @@
+# Virtual environments
+venv/
+myEnv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Flask
+instance/
+*.log
+
+# Hugging Face / ML caches
+.cache/
+.huggingface/
+**/.cache/
+**/.huggingface/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
