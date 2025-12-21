@@ -1,11 +1,11 @@
-# AI Notes Summarizer 🧠✨
+# AI Text Summarizer
 
 An AI-powered web application built using **Flask** and **Hugging Face Transformers** that generates concise summaries from long notes or text.  
 The application uses the **T5 (Text-to-Text Transfer Transformer)** model for abstractive text summarization.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Paste long notes and generate a concise summary
 - Uses **T5-small** transformer model
@@ -17,7 +17,7 @@ The application uses the **T5 (Text-to-Text Transfer Transformer)** model for ab
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Backend:** Flask (Python)
 - **AI / ML:** Hugging Face Transformers, PyTorch
@@ -26,7 +26,7 @@ The application uses the **T5 (Text-to-Text Transfer Transformer)** model for ab
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 ### 1 Clone the repository
 
