@@ -33,9 +33,8 @@ The application uses the **T5 (Text-to-Text Transfer Transformer)** model for ab
 
 ### 2 Create and activate a virtual environment
 
-python -m venv myEnv
-myEnv\Scripts\activate      # Windows
-    # source myEnv/bin/activate # macOS/Linux
+-python -m venv myEnv
+-myEnv\Scripts\activate     
 
 ### 3 Install dependencies
 pip install -r requirements.txt
